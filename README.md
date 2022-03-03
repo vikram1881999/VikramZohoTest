@@ -38,4 +38,4 @@ I have Worked on Two Problems :- 1>Contact App FullStack 2> RoleHierarchy
 
 ThankYou,
 Viram Singh Chauhan
-emai = vikramsinghchauhan1881999@gmail.com			
+email = vikramsinghchauhan1881999@gmail.com			
