@@ -3,7 +3,7 @@ package com.vikram.aem.brands.core.constant;
 public class LoginServiceConstants {
 	
 	public static final String ADDUSER_SELECTORS = "ContactADD";
-	public static final String RESOURCE_TYPE = "breville-brands/components/custom/ContactADD";
+	public static final String RESOURCE_TYPE = "vikram/components/custom/ContactADD";
 	public static final String USERNODE_TYPE = "nt:unstructured";
 	public static final String ADDUSER_EXTENSION = "json";
 	
